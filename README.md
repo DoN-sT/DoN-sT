@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sudharsan</h1>
 <h3 align="center">A passionate cybersecurity engineer</h3>
-<img aling="left" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img aling="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=don-st&label=Profile%20views&color=0e75b6&style=flat" alt="don-st" /> </p>
 
 - 🌱 I’m currently learning **cyber security and programming languages**

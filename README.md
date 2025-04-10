@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python,linux**
 
-- 📫 How to reach me **sudharsanperumal1@gmail.com**
+- 📫 How to reach me **linked profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
